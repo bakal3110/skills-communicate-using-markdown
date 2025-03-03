@@ -18,3 +18,13 @@ Adding code markdown example 2
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Adding check list now
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+Syntax:
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+```
